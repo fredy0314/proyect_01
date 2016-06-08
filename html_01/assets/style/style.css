@@ -1,0 +1,17 @@
+body {background-color: rgba(255, 305, 50, 0.5);}
+# h1{font-size:2em;
+font-style: oblique;
+font-family: sans-serif;
+margin: center;}
+
+#banner {
+         background-color:red;
+         width: 100%;
+         height: 450px;
+         margin: 0 auto;
+        }
+
+#banner img {width: 100%;
+             height: 450px;
+             margin: 0 auto;
+            }
